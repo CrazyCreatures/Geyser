@@ -24,7 +24,7 @@ Take a look [here](https://wiki.geysermc.org/geyser/setup/) for how to set up Ge
 
 [![YouTube Video](https://img.youtube.com/vi/U7dZZ8w7Gi4/0.jpg)](https://www.youtube.com/watch?v=U7dZZ8w7Gi4)
 
-## Links:
+## Links:indeed
 - Website: https://geysermc.org
 - Docs: https://wiki.geysermc.org/geyser/
 - Download: https://ci.geysermc.org
